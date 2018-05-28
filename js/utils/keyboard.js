@@ -18,6 +18,10 @@
  * although it will perform reasonably well without.  However, if you are using
  * Cordova there is no reason not to use the plugin.
  *
+ * It will pushed up and in when you use this plugin in WebApp model, 
+ * so you can use disbled function to disable plugin and use native scroll
+ *
+ *
  * ### Hide when keyboard shows
  *
  * To hide an element when the keyboard is open, add the class `hide-on-keyboard-open`.
